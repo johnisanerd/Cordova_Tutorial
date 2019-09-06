@@ -1,4 +1,4 @@
-# Cordova_Tutorial
+# Cordova Tutorial
 
 Working [off of this tutorial. ](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
 
